@@ -163,8 +163,6 @@ The analysis shows strong demand for core analytical technologies, particularly 
 
 The demand distribution demonstrates that some technologies occur substantially more frequently than others. This makes skill frequency useful when deciding which technologies should form the foundation of a Data Analyst learning path.
 
-![Most In-Demand Skills](sql_project/Graphs/01_skill_demand.png)
-
 ---
 
 ## 💰 Salary Distribution
@@ -174,8 +172,6 @@ Understanding the distribution of salaries provides context for the compensation
 ![Salary Distribution](sql_project/Graphs/05_salary_distribution.png)
 
 The distribution shows that Data Analyst compensation varies considerably across job postings. Salary differences can reflect factors such as company, seniority, specialization, industry and responsibilities.
-
-![Salary Distribution](sql_project/Graphs/05_salary_distribution.png)
 
 ---
 
@@ -187,8 +183,6 @@ The project also examines the salary levels associated with the highest-paying o
 
 The results demonstrate that Data Analyst positions can have substantial differences in compensation, highlighting the importance of looking beyond job title alone when evaluating opportunities.
 
-![Salary Ranking](sql_project/Graphs/02_salary_ranking.png)
-
 ---
 
 ## 🧠 Skill Coverage
@@ -198,8 +192,6 @@ Skill coverage was examined to understand how broadly individual technologies oc
 ![Skill Coverage](sql_project/Graphs/03_skill_coverage_heatmap.png)
 
 This helps distinguish between skills that are repeatedly present across many jobs and skills that appear only in narrower combinations.
-
-![Skill Coverage](sql_project/Graphs/03_skill_coverage_heatmap.png)
 
 ---
 
@@ -214,8 +206,6 @@ A further question was:
 The analysis does **not** support the idea that simply having a larger number of listed skills automatically results in higher compensation.
 
 This is an important distinction: skill breadth alone is not a reliable proxy for salary.
-
-![Salary vs Skill Breadth](sql_project/Graphs/04_salary_vs_skill_breadth.png)
 
 ---
 
@@ -345,6 +335,8 @@ The dashboard updates:
 - Top companies
 - Salary distribution
 - Highest-paying job postings
+
+![Interactive Dashboard](sql_project/Dashboard/dashboard_snippet.png)
 
 ---
 
