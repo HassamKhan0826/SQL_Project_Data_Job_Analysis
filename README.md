@@ -336,7 +336,8 @@ The dashboard updates:
 - Salary distribution
 - Highest-paying job postings
 
-![Interactive Dashboard](sql_project/Dashboard/dashboard_snippet.png)
+The Dashboard is live on the following link
+![Interactive Dashboard](https://hassamkhan0826.github.io/SQL_Project_Data_Job_Analysis/)
 
 ---
 
